@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://efersper.github.io/sitemap.html.gz
+Sitemap: https://efersper.github.io/app/sitemap.html.gz
+Sitemap: https://efersper.github.io/assets/sitemap.html.gz
+Sitemap: https://efersper.github.io/css/sitemap.html.gz
+Sitemap: https://efersper.github.io/includes/sitemap.html.gz
+Sitemap: https://efersper.github.io/item/sitemap.html.gz
+Sitemap: https://efersper.github.io/src/sitemap.html.gz
